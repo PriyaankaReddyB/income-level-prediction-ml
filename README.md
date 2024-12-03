@@ -102,12 +102,15 @@ To enhance marketing and sales strategies, the retail company seeks to create a 
 
 ## Result
 
-Among the models, **Random Forest** demonstrates the highest recall (80.36%), making it the most suitable model for the business scenario, as it effectively identifies both high-income and low-income individuals. It strikes a balance between recall and other metrics like precision, making it ideal for the company's segmentation strategy.
+Among the models, **XGBoost** demonstrates the highest recall (84.46%), making it the most suitable model for the business scenario, as it effectively identifies the most high-income individuals. This model focuses on minimizing false negatives, which is crucial for ensuring that high-value customers are not overlooked.
 
-By adopting the Random Forest model, the company can:
-- Accurately target high-income and low-income customer segments.
-- Optimize marketing and sales strategies.
-- Boost revenue by focusing on the right customer segments.
+By adopting the XGBoost model, the company can:
+
+- Maximize recall, identifying the greatest number of high-income individuals.
+- Ensure no high-income customers are missed, improving the effectiveness of customer targeting.
+- Optimize marketing and sales strategies by focusing on the right customer segments.
+
+The XGBoost model is recommended for the retail company's income-based segmentation strategy. Its higher recall ensures the identification of the maximum number of high-income individuals, leading to more targeted and effective marketing, inventory management, and overall business decisions.
 
 ---
 
