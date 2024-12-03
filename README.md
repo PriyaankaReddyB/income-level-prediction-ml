@@ -110,13 +110,11 @@ By adopting the XGBoost model, the company can:
 - Ensure no high-income customers are missed, improving the effectiveness of customer targeting.
 - Optimize marketing and sales strategies by focusing on the right customer segments.
 
-The XGBoost model is recommended for the retail company's income-based segmentation strategy. Its higher recall ensures the identification of the maximum number of high-income individuals, leading to more targeted and effective marketing, inventory management, and overall business decisions.
-
 ---
 
 ## Conclusion
 
-The Random Forest model is recommended for the retail company's income-based segmentation strategy. Its higher recall and balanced performance make it the best choice for identifying customer segments, leading to more effective marketing, inventory management, and overall business decisions.
+The XGBoost model is recommended for the retail company's income-based segmentation strategy. Its higher recall ensures the identification of the maximum number of high-income individuals, leading to more targeted and effective marketing, inventory management, and overall business decisions.
 
 ---
 
